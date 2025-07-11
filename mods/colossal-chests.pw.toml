@@ -1,0 +1,13 @@
+name = "Colossal Chests"
+filename = "colossalchests-1.21.1-fabric-1.8.12-175.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V8HM9qmm/versions/3sUKPitQ/colossalchests-1.21.1-fabric-1.8.12-175.jar"
+hash-format = "sha512"
+hash = "eb0f42af1e327236fc3c59eed6bb7c8420ea847902018e17366e9bde511fd123df70bcf336267bdd061ca2bf51e4d68b0a31b7fdeff86ecb2db760d4a78a20a5"
+
+[update]
+[update.modrinth]
+mod-id = "V8HM9qmm"
+version = "3sUKPitQ"

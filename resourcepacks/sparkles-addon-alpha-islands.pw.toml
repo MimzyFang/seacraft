@@ -1,0 +1,13 @@
+name = "Sparkles ADDON: Alpha Islands"
+filename = "Sparkles_ADDON_AlphaIslands_v1.0.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xlOw7Aut/versions/eJ9AidSp/Sparkles_ADDON_AlphaIslands_v1.0.2.zip"
+hash-format = "sha512"
+hash = "996f8272cb869d64ed193f658d4ef79e746bdc8cbb3cbf50ee417630febd0f3a1a0a9d79d8780d4c2e3847195b1582cc48a149388f0e726f9e636bd0473f8356"
+
+[update]
+[update.modrinth]
+mod-id = "xlOw7Aut"
+version = "eJ9AidSp"
