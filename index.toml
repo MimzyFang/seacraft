@@ -341,6 +341,11 @@ hash = "605e4295a1ac4a1c4b3345370e596d4e8ee40dd22ab5ebf699f594dd247e7b94"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "a0657c45062516ff0a3fbea639809c8d6ff852e17dc0b4e46afe652328c79bd3"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "6be43ffc708ac329843aee99ededc692ecf6461ee8e409d373f55fc5494db5af"
 metafile = true
@@ -416,6 +421,11 @@ hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+hash = "0b25da65d50ae21fed48187f30a1f402e796bc8b6211f5e6f4910295df624069"
+metafile = true
+
+[[files]]
 file = "mods/simple-resource-loader.pw.toml"
 hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
 metafile = true
@@ -468,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "08b9cd878c5201b709e991201c4fa1e5e4bd2de42a911cd8b61a38cad319c0a3"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "00dec926c5e2d423392a0ad7cc9bb64fb14f744657e5b7ade951919d5fc89192"
 metafile = true
 
 [[files]]
