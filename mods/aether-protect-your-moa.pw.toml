@@ -1,0 +1,13 @@
+name = "Aether Addon: Protect Your Moa"
+filename = "aether_protect_your_moa-1.21.1-1.0.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6KeEgbxe/versions/DuHYzXT1/aether_protect_your_moa-1.21.1-1.0.0-fabric.jar"
+hash-format = "sha512"
+hash = "8b07bfe63632f76cbe9f2585edceaefe016d204a56558882aa58b9abcfea3e7ae16ca260db7dc1f7d1e214e3280ddd69115e9e9c9dd93d8944a086ee921edf26"
+
+[update]
+[update.modrinth]
+mod-id = "6KeEgbxe"
+version = "DuHYzXT1"

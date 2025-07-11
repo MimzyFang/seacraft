@@ -16,6 +16,31 @@ hash = "e2f651d6eb38648416ebd19d180b6dbdf3e416ca87489fc8c14aafe182bfa8c6"
 metafile = true
 
 [[files]]
+file = "mods/aether-emissivity.pw.toml"
+hash = "ac36e3c71452199843c544141a45b66ab015fd692f88609a1840e1ac2c91df4e"
+metafile = true
+
+[[files]]
+file = "mods/aether-enhanced-extinguishing.pw.toml"
+hash = "0edcbeaedc073df7d9254f00e5895fda4b51b6023f584ac7fdfe28302cc1d3ff"
+metafile = true
+
+[[files]]
+file = "mods/aether-protect-your-moa.pw.toml"
+hash = "80e9390f573785a355231083968dd586ee2e2e9772227c7a8830fbe6fe139284"
+metafile = true
+
+[[files]]
+file = "mods/aether-treasure-reforging.pw.toml"
+hash = "21ff8ec1ed6ca9c97dabfa04dd28a6f4c79f29f8b782977687b1085744cc53b2"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "e873a3b80b8aa79111299987fcd82eedd880427ac0e8c7f7cc4e0429f8b99550"
+metafile = true
+
+[[files]]
 file = "mods/better-nether-map.pw.toml"
 hash = "823d504f7256c8223cd30f2617753a8e5b6dc67dd223897fd16273421ef57960"
 metafile = true
@@ -186,6 +211,16 @@ hash = "6be43ffc708ac329843aee99ededc692ecf6461ee8e409d373f55fc5494db5af"
 metafile = true
 
 [[files]]
+file = "mods/moremcmeta-emissive.pw.toml"
+hash = "13d1cb8929fd816f844678ead9be8f94547fe62c7fdf7c022c83a7d47b65650e"
+metafile = true
+
+[[files]]
+file = "mods/moremcmeta.pw.toml"
+hash = "d3e7fa80ec843d25687ef3028cef6e3eb73cdb96a43cc18ef697ff9b30e8ca96"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "dcc936d7bd32a86ce63fa3bf013864a4e2ed979cb126a915153ac70ce5e5671f"
 metafile = true
@@ -193,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "b98e9fd453261dc6aafd0d479444655e765f72d34cf1796f713e236ad132e73b"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
