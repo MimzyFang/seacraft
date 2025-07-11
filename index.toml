@@ -216,6 +216,11 @@ hash = "795a817b8c5c451c6a5af444f1c02515e48664bbe0b0b45368d06f6eaedf5d24"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "499270116a69668fbc24ea6fdb429927e8eb63d81ad17aebc40b7af65bccafe1"
+metafile = true
+
+[[files]]
 file = "mods/hd-skins.pw.toml"
 hash = "955f7aa1fd3c10f286f1948745fdfaeb61d3a11a741c4269a2626d0d0257dc77"
 metafile = true
@@ -358,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "b98e9fd453261dc6aafd0d479444655e765f72d34cf1796f713e236ad132e73b"
+metafile = true
+
+[[files]]
+file = "mods/oritech.pw.toml"
+hash = "85ed250a1122b92e7e9b4bc84b23d4ac32db1b257a1d2b4bd635a1c902103436"
 metafile = true
 
 [[files]]
