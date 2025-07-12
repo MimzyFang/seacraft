@@ -276,11 +276,6 @@ hash = "499270116a69668fbc24ea6fdb429927e8eb63d81ad17aebc40b7af65bccafe1"
 metafile = true
 
 [[files]]
-file = "mods/haunted-harvest.pw.toml"
-hash = "40c7edaa19c2a753e1b14e4060caea90d73ac6a8d23587d168c7606caee73481"
-metafile = true
-
-[[files]]
 file = "mods/hd-skins.pw.toml"
 hash = "955f7aa1fd3c10f286f1948745fdfaeb61d3a11a741c4269a2626d0d0257dc77"
 metafile = true
@@ -451,11 +446,6 @@ hash = "d3e7fa80ec843d25687ef3028cef6e3eb73cdb96a43cc18ef697ff9b30e8ca96"
 metafile = true
 
 [[files]]
-file = "mods/moyai.pw.toml"
-hash = "803ff448407bcd6ae583a49b555d8436c3b7cfcb1a48ac8f3e86dd865b92229b"
-metafile = true
-
-[[files]]
 file = "mods/noisium.pw.toml"
 hash = "0b35eacc51808809894ef78b91dfd614e056a34708e4bd2aa6f5ebeb7993a1c0"
 metafile = true
@@ -581,23 +571,8 @@ hash = "0f67e495b54b0f5534de9d7991b6d515469eeaa823a63860ab0cc451bf5b6e34"
 metafile = true
 
 [[files]]
-file = "mods/sleep-tight.pw.toml"
-hash = "519d69304eadecaf9d4380339e7ea49056e4cc9b6048b35a693f88fce455450d"
-metafile = true
-
-[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "391cfcaddc727aca042186688aaa41bafa1666527a36499715e357432304bcf0"
-metafile = true
-
-[[files]]
-file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "9076c21b89542dc4fd2392c3f6bb6acc15ebfb7ed7c7c5b82ef3c400649fa272"
-metafile = true
-
-[[files]]
-file = "mods/snowy-spirit.pw.toml"
-hash = "36427a05afb9e429822c82c87d7f466b826f4911510eaa78534650e42c486b3a"
 metafile = true
 
 [[files]]
@@ -723,11 +698,6 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "1d35cd67870d906d66d40bae2be65b2ba7275f4fac2bdaef2e603987767b5f7d"
-metafile = true
-
-[[files]]
-file = "mods/universal-sawmill.pw.toml"
-hash = "72dd22f86ff701f3f0871c4c595f18123f5448c96655c9cd8d5b334fb6ee6656"
 metafile = true
 
 [[files]]
