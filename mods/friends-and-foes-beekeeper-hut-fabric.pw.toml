@@ -1,6 +1,6 @@
 name = "Friends&Foes - Beekeeper Hut (Fabric/Quilt)"
 filename = "beekeeperhut-fabric-3.0.0+mc1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Kt4RVKEd/versions/pV0J6Mnh/beekeeperhut-fabric-3.0.0%2Bmc1.21.1.jar"
