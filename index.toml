@@ -82,6 +82,11 @@ hash = "5601649308a7d9f1658a942bbd48d3bd899a81fabd4ea1296952b48474d1ee1d"
 metafile = true
 
 [[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "1a0300c98f7f02ef0d3aa3c44c919dc17bca2123fb7042f7371166e1a002c1c4"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
 metafile = true
@@ -94,6 +99,11 @@ metafile = true
 [[files]]
 file = "mods/better-nether-map.pw.toml"
 hash = "168009c9e42bde0e33bd898c188f747ad6acb7a90e7d32e4e9f6e7f46fb6ef5f"
+metafile = true
+
+[[files]]
+file = "mods/betterdays.pw.toml"
+hash = "f2027326c496645306902babb6eefb96809122e91971177b0e9b930ac97984b1"
 metafile = true
 
 [[files]]
@@ -312,6 +322,11 @@ hash = "499270116a69668fbc24ea6fdb429927e8eb63d81ad17aebc40b7af65bccafe1"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
+metafile = true
+
+[[files]]
 file = "mods/hd-skins.pw.toml"
 hash = "955f7aa1fd3c10f286f1948745fdfaeb61d3a11a741c4269a2626d0d0257dc77"
 metafile = true
@@ -337,6 +352,11 @@ hash = "0e5b10aefb078de8f531b588b6384cbfa585f8c6991b0b9b21dce1d642a6d840"
 metafile = true
 
 [[files]]
+file = "mods/immersive-snow.pw.toml"
+hash = "840f28ed35409e74718ddf9c2088648851fd6db1d2e31f693781ca519a79cfee"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
 metafile = true
@@ -349,6 +369,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "80858e1b1477432110b72aab33348635139d6e8fe7bc05db3ba00651de635720"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "2cb9f11e70a27fed5aef1aaefba8f5799c49886787f9c92ef76be46ea8d399ea"
 metafile = true
 
 [[files]]
@@ -629,6 +654,11 @@ metafile = true
 [[files]]
 file = "mods/small-ships.pw.toml"
 hash = "391cfcaddc727aca042186688aaa41bafa1666527a36499715e357432304bcf0"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "bc465fa67ba4554d65a04eeef55c21812a8cc1f642a576ff4354fea6a8cf80b9"
 metafile = true
 
 [[files]]
