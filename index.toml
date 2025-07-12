@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterdungeons-fabric-1_21.toml"
+hash = "80c03ca877123cdf7dca2d928a7512c7e7cb6533e0c98f9fbd969eec3997b157"
+
+[[files]]
+file = "config/betterstrongholds-fabric-1_21.toml"
+hash = "ac20bedf68ec1a2cdc7ac573972b7985cd2e35d6a9df991046ba93fb000b9af8"
+
+[[files]]
+file = "config/ribbits-fabric-1_21_1.toml"
+hash = "2a30077e18b38d0903c6834ff916163a02da49002b7867baaa78818945e610b3"
+
+[[files]]
+file = "config/seasons.json"
+hash = "81d2723adaf03318405cec89d31754de48a91fc565375dac0659fcb5abd1fc49"
+
+[[files]]
 file = "mods/accessories-tc-layer.pw.toml"
 hash = "2392fac629717417a29744e66f001a494304309b7742cf0cf54368278d3bf5c7"
 metafile = true
@@ -796,7 +812,23 @@ hash = "208235d8f8b5f92cba00db12e00db01953cd8a5a224d62be68fda2ec172984fa"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-leaves.pw.toml"
+file = "resources/datapack/required/VanillaTweaks_c413640_MC1.21-1.21.7.zip"
+hash = "46820497c4a3de813d5b2bf72ba3970f383254661218ad7b2cdf7fde66cdbb67"
+
+[[files]]
+file = "resources/datapack/required/double shulker shells v1.3.13 (MC 1.21-1.21.7).zip"
+hash = "46cb732fd254ec7763aa540e2f33e77da63b966f3a0bc794b6b9ecd5ca203ff6"
+
+[[files]]
+file = "resources/datapack/required/wandering trader announcements v1.0.6 (MC 1.21-1.21.7).zip"
+hash = "e34aaab6ac95266dedfabc65573b63b6dcaac4709246548d66cb7e1f3cc2ea8d"
+
+[[files]]
+file = "resources/resourcepack/optional/VanillaTweaks_r163854_MC1.21.x.zip"
+hash = "f92cdfc800bd5a09bf6c9fc33bc61d58ca3b77fcbaee654c3b674abe59ca030f"
+
+[[files]]
+file = "resources/resourcepack/optional/better-leaves.pw.toml"
 hash = "5507b242a9db7237f92f75009d0036fc606ccbde30de9ad520dac873812126ab"
 metafile = true
 
