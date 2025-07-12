@@ -796,11 +796,16 @@ hash = "208235d8f8b5f92cba00db12e00db01953cd8a5a224d62be68fda2ec172984fa"
 metafile = true
 
 [[files]]
-file = "resourcepacks/sparkles-addon-alpha-islands.pw.toml"
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "5507b242a9db7237f92f75009d0036fc606ccbde30de9ad520dac873812126ab"
+metafile = true
+
+[[files]]
+file = "resources/resourcepack/required/sparkles-addon-alpha-islands.pw.toml"
 hash = "c851d98b2da570be87d0ecc086e63eea9df2e6201ffd0e1375e3a58a1e76d3b9"
 metafile = true
 
 [[files]]
-file = "resourcepacks/sparkles.pw.toml"
+file = "resources/resourcepack/required/sparkles.pw.toml"
 hash = "388a6d91e45e36e4f5a2120786b41535c567ad8f767206ff642144e0be75c39a"
 metafile = true
