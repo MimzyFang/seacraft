@@ -1,0 +1,13 @@
+name = "Unicopia Blockus Addon"
+filename = "Unicopia-Blockus-1.1.1+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YMowEgK2/versions/dPARYKFq/Unicopia-Blockus-1.1.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "e3ab32b99c2fff5057992a1d1d7ede0f6464d2e5a4155b41dd013853012588ac554e3257a6e0d5f02155423e2aa2936b61fdd391e98eeedd1ff0880a86a0f222"
+
+[update]
+[update.modrinth]
+mod-id = "YMowEgK2"
+version = "dPARYKFq"

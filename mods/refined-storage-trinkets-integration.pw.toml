@@ -1,0 +1,13 @@
+name = "Refined Storage - Trinkets Integration"
+filename = "refinedstorage-trinkets-integration-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EkNHO3Uw/versions/G9QXGkZR/refinedstorage-trinkets-integration-1.0.0.jar"
+hash-format = "sha512"
+hash = "12d968c9415ac6d23be55ee145853a2ab1ac53086be0b1ac80f2bdfe52f066e8d4ee96b9296c726e4a1b8e157cd649ed1746a98fe70df063e1b754fe7c6de94a"
+
+[update]
+[update.modrinth]
+mod-id = "EkNHO3Uw"
+version = "G9QXGkZR"
