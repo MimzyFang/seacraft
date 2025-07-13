@@ -30,7 +30,7 @@ jobs:
       - name: get packwiz hashes
         run: |
           go install github.com/packwiz/packwiz@latest
-          make refresh
+          make refresh-build
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
