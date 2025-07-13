@@ -1,4 +1,4 @@
-build:
+buildpack:
 	echo build:
 	cd seacraft && packwiz mr export && mv *.mrpack ../build/
 
