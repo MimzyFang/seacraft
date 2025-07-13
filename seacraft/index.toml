@@ -16,6 +16,9 @@ file = "config/seasons.json"
 file = "config/yosbr/config/cpm.json"
 
 [[files]]
+file = "config/yosbr/config/enhanced_bes.properties"
+
+[[files]]
 file = "config/yosbr/config/minelp.json"
 
 [[files]]
