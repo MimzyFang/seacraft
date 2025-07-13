@@ -1,0 +1,19 @@
+{
+  "editorLastVersion": "0.6.22a",
+  "titleScreenButton": false,
+  "playerSettings": {},
+  "globalSettings": {
+    "safetyProfile": "off"
+  },
+  "friendSettings": {},
+  "keybinds": {},
+  "blockedList": {},
+  "editorRecentProjects": [],
+  "safetyProfiles": {},
+  "friendList": {},
+  "serverSettings": {
+    "localhost": {
+      "safetyProfile": "off"
+    }
+  }
+}

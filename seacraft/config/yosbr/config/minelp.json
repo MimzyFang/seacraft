@@ -1,0 +1,80 @@
+{
+  "settings": {
+    // Enables rendering of modded armour registered via the fabric api
+    // Note that since any armour registered in this way is designed to work for the human model, pieces may not fit exactly.
+    // i.e. Anything that goes on the plyer's backs needs to be rotated by the mod developer when rendered on a pony
+    // Developers: To know if you're being rendered on a pony model, check the renderstate or model class with
+    //  state instanceof com.minelittlepony.api.model.PonyModel$AttributedHolder or model instanceof com.minelittlepony.api.model.PonyModel
+    //  Note that the matrix stack your receieve is pre-transformed for the body part your model is attached to, so if you intend to call model.transform(state, part, matrices)
+    //  with a different part (ie BACK) you must pop the stack to revert to the previous first.
+    "enablefabricmodelsapisupport": false,
+    // Adjust camera intersection checks to properly cull entities when they're not in view.,
+    // Helps to prevent entities from vanishing when they're in long stacks,
+    "frustrum": true,
+    // Adjusts pony scales to match the show (approximate),
+    "showscale": true,
+    // Turn on to adjust the player's camera position to their model,
+    "fillycam": false,
+    // Enables the alternative horsey models from the April Fools 2023 update,
+    "horsiemode": false,
+    // Allows ponies of different sizes/ages,
+    "sizes": true,
+    // Not enough ponies? Turn this on to turn player heads and skulls into ponies too!,
+    "ponyskulls": true,
+    // Uses magic effects in first person,
+    // Turn this off if you encounter any compatibility issues with other mods,
+    "fpsmagic": true,
+    // Uses magic effects in third person,
+    "tpsmagic": true,
+    // Controls whether ponies have snouts,
+    "snuzzles": true
+  },
+  "debug": {
+    // Overrides pony races
+    // Possible values: HUMAN (default), EARTH, PEGASUS, UNICORN, ALICORN, CHANGELING, ZEBRA, CHANGEDLING, GRYPHON, HIPPOGRIFF, KIRIN, BAYPONT, SEAPONY
+    "raceoverride": "HUMAN",
+    // Overrides pony sizes,
+    // Possible values: TALL, BULKY, LANKY, NORMAL, YEARLING, FOAL, UNSET (default),
+    "sizeoverride": "UNSET",
+    // Disables pony armour textures.,
+    // If enabled, only the vanilla textures will be considered,
+    "useponifiedarmour": false
+  },
+  "entities": {
+    "allays": true,
+    "pigzombies": true,
+    "endermen": true,
+    "striders": true,
+    "skeletons": true,
+    "inanimates": true,
+    "villagers": true,
+    "illagers": true,
+    "guardians": true,
+    "zombies": true
+  },
+  "root": {
+    // How much pony do you want?
+    // PONIES - all players are turned into ponies
+    // HUMANS - all players are humans
+    // BOTH - players with compatible skins will be ponies whilst the rest are humans
+    "ponylevel": "BOTH",
+    // Whether to show the mine little pony settings button on the main menu,
+    // AUTO (default) - only show when HDSkins is not installed,
+    // ON - always show,
+    // OFF - never show,
+    "horsebutton": "AUTO",
+    // How large do you want your ponies to be?,
+    // Default is show scale (0.9),
+    "globalscalefactor": 0.9
+  },
+  "customisation": {
+    // Contains a list of item ids that should preserve orientation
+    // when held in a unicorn's magical aura in first person
+    "forwardholdingitems": [],
+    // Pegasi will use their wings to fly even when they're wearing an elytra,
+    "flappyelytras": false,
+    // Disables certain easter eggs and secrets (party pooper),
+    // Turning this off may help with compatibility in some cases,
+    "nofun": false
+  }
+}

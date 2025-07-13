@@ -17,6 +17,18 @@ file = "config/seasons.json"
 hash = "81d2723adaf03318405cec89d31754de48a91fc565375dac0659fcb5abd1fc49"
 
 [[files]]
+file = "config/yosbr/config/cpm.json"
+hash = "29ef0f3b0b94400e1bb11b41e35fb58152eaa1ea4c4ae6ead551a8326e29b2a2"
+
+[[files]]
+file = "config/yosbr/config/minelp.json"
+hash = "0d86acd5328e55fda80b64b17cc979f0d1c000da28756ef6ec4e9279a7d45bf1"
+
+[[files]]
+file = "config/yosbr/server.properties"
+hash = "32fa1386976aa3e8d57b902e8030c3fa81dcc2f8fdbbaa9c2bc3b0c2b5ca4e42"
+
+[[files]]
 file = "mods/accessories-tc-layer.pw.toml"
 hash = "2392fac629717417a29744e66f001a494304309b7742cf0cf54368278d3bf5c7"
 metafile = true
@@ -178,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "08c6d6f9907bc5070004db0fc1eda299368dc851e29d1ba45e122a8f303b8a7e"
+hash = "871b403ab45de3dd8b3fff01eae3cfb05747d015cf4256fcc82a08532e9ac321"
 metafile = true
 
 [[files]]
@@ -814,6 +826,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "85e218135c26643e5802980d2f0bad5f6229e96d5231471f5a1b249520e7e8b3"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]

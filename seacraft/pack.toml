@@ -1,12 +1,12 @@
 name = "Skycraft 2"
 author = "Nyx"
-version = "1.0.0"
+version = "0.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4bd9d36ae3211dd43fa4573ee20664bc023d1d68900644ba707a09801f15fc6d"
+hash = "62a9439b6b72660fd1a0758acc4e1540e296ecf8cf114f5d26ddc516ae435113"
 
 [versions]
 fabric = "0.16.14"
