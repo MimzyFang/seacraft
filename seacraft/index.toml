@@ -70,6 +70,10 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/athena-mod.pw.toml"
 metafile = true
 
