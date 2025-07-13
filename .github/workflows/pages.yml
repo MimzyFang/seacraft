@@ -30,6 +30,7 @@ jobs:
       - name: get packwiz hashes
         run: |
           go install github.com/packwiz/packwiz@latest
+          export PATH=/home/runner/go/bin:$PATH
           make refresh-build
       - name: Setup Pages
         uses: actions/configure-pages@v5
