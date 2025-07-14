@@ -124,10 +124,6 @@ file = "mods/bobby.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 metafile = true
 
@@ -421,6 +417,10 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moonrise-opt.pw.toml"
 metafile = true
 
 [[files]]
