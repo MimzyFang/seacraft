@@ -448,6 +448,10 @@ file = "mods/oceans-delight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/omnishape.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/oritech.pw.toml"
 metafile = true
 
