@@ -396,10 +396,6 @@ file = "mods/macaws-windows.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/map-atlases.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/mine-little-pony.pw.toml"
 metafile = true
 
