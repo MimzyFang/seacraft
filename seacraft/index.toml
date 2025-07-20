@@ -120,6 +120,10 @@ file = "mods/blockus.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/blur-plus.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 metafile = true
 
@@ -308,6 +312,10 @@ file = "mods/hopo-better-underwater-ruins.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/iceandfire-ce.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 metafile = true
 
@@ -325,6 +333,10 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jupiter.pw.toml"
 metafile = true
 
 [[files]]
@@ -661,6 +673,10 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/uranus.pw.toml"
 metafile = true
 
 [[files]]
