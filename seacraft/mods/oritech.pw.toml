@@ -1,13 +1,13 @@
 name = "Oritech"
-filename = "oritech-fabric-0.17.1.jar"
+filename = "oritech-fabric-0.17.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4sYI62kA/versions/G2eEMFqL/oritech-fabric-0.17.1.jar"
+url = "https://cdn.modrinth.com/data/4sYI62kA/versions/t99iHugq/oritech-fabric-0.17.2.jar"
 hash-format = "sha512"
-hash = "c2bfda9f3abc91bef4daa3073b0c4e896af72b7234f4c8e0a89763279c7b47df32351274a2568082d2364c898ba205b7e145191c5b6c956b15f1bacb21788efa"
+hash = "872934e46c3bb047a566e082308953f263c16c32af082f1f82734485b10dbcd0bc1f660e94a40a0141cc050836de60d9e0e4cbe05b75ae75380b4b8ec389ff93"
 
 [update]
 [update.modrinth]
 mod-id = "4sYI62kA"
-version = "G2eEMFqL"
+version = "t99iHugq"
