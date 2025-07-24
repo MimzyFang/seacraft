@@ -1,0 +1,13 @@
+name = "Dawn of Time"
+filename = "dawnoftimebuilder-fabric-1.21.1-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RgWXq0La/versions/NRHKdxEx/dawnoftimebuilder-fabric-1.21.1-1.6.1.jar"
+hash-format = "sha512"
+hash = "96052f12637fffd3315106f94f5a9b7da13df6532a464d789c86f7e24659e02fbb8f3a266327ef1ef4d16affd61f285d1ec02637b2c95a7b984bebaa4d36066c"
+
+[update]
+[update.modrinth]
+mod-id = "RgWXq0La"
+version = "NRHKdxEx"
