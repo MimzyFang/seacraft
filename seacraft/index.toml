@@ -138,10 +138,6 @@ file = "mods/cardinal-components-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/carpet.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 metafile = true
 
