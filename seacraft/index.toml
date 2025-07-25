@@ -562,10 +562,6 @@ file = "mods/searchables.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/seasonhud-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/seasons-delight-refab-compat.pw.toml"
 metafile = true
 
