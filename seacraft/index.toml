@@ -182,10 +182,6 @@ file = "mods/cyclops-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/dawn-of-time.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 metafile = true
 
