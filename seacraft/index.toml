@@ -98,6 +98,10 @@ file = "mods/athena-mod.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/beautify-refabricated.pw.toml"
 metafile = true
 
