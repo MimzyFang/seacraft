@@ -606,6 +606,10 @@ file = "mods/sound-physics-remastered.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/spectral-decorations.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/spectrum.pw.toml"
 metafile = true
 
