@@ -1,13 +1,13 @@
 name = "Refined Storage - Quartz Arsenal"
-filename = "refinedstorage-quartz-arsenal-fabric-1.0.1.jar"
+filename = "refinedstorage-quartz-arsenal-fabric-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gnwGOmBf/versions/zk4N9qaC/refinedstorage-quartz-arsenal-fabric-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/gnwGOmBf/versions/8GqHcNp4/refinedstorage-quartz-arsenal-fabric-1.0.2.jar"
 hash-format = "sha512"
-hash = "8e98f3caadce4f484a62551613e77f0f15a9a9642f742eea33f6133d3c0572076b4af293308b12f0e11fc065f7ea42f985fda851a464e0e932008c92381c14f5"
+hash = "b61fa28d14cf50cebdc9c32e2873392976d9f69ceb302ab75c6d3aa736f3c43a0a1de095a886c228d1869e9c11467aba26bea4fb2b72e3b46d9cc1759d3e2ffb"
 
 [update]
 [update.modrinth]
 mod-id = "gnwGOmBf"
-version = "zk4N9qaC"
+version = "8GqHcNp4"

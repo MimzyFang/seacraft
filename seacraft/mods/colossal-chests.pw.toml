@@ -1,13 +1,13 @@
 name = "Colossal Chests"
-filename = "colossalchests-1.21.1-fabric-1.8.12-181.jar"
+filename = "colossalchests-1.21.1-fabric-1.8.12-183.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/V8HM9qmm/versions/iDiJR7IV/colossalchests-1.21.1-fabric-1.8.12-181.jar"
+url = "https://cdn.modrinth.com/data/V8HM9qmm/versions/2mV0rfmb/colossalchests-1.21.1-fabric-1.8.12-183.jar"
 hash-format = "sha512"
-hash = "1c98b9cbf08f3c2ef1e4de1c71c93b2250ad9d19696690581865f6fea91499be2b752e2ea1697831009893d6c04b91d9bfe42e297f4f0fa9b7aec88848ba584b"
+hash = "43edfee54d87a7303634ab739d1e496e3bdda8debdc5cb577c107a828ce8ad8f67f3a6c0bb19209fc03766653498cfdd2e4d334642edc5f55060097ded94d9b6"
 
 [update]
 [update.modrinth]
 mod-id = "V8HM9qmm"
-version = "iDiJR7IV"
+version = "2mV0rfmb"
