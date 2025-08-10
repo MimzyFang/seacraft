@@ -682,6 +682,10 @@ file = "mods/toms-storage.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 metafile = true
 
