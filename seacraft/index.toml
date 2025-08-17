@@ -462,6 +462,10 @@ file = "mods/neruina.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/network-protocol-disconnect.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 metafile = true
 
