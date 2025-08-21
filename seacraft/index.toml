@@ -374,6 +374,10 @@ file = "mods/lithostitched.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 metafile = true
 
