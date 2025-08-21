@@ -1,0 +1,13 @@
+name = "Colorful Lanterns"
+filename = "colored-lanterns-1.21.1-0.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZOLn67wl/versions/BUhBymc6/colored-lanterns-1.21.1-0.7.jar"
+hash-format = "sha512"
+hash = "1ba1b21a47984b06c0457e107d8f8950f78b6dac4333e1dcaf4b77b573f5d47df55bcaf83561ad8e1ce8795391bce80e34bbe445c939079a5b74a5a0360d5ac8"
+
+[update]
+[update.modrinth]
+mod-id = "ZOLn67wl"
+version = "BUhBymc6"

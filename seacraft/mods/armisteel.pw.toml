@@ -1,0 +1,13 @@
+name = "Armisteel"
+filename = "armisteel-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LpUpHsT0/versions/eJNNgGdr/armisteel-1.0.3.jar"
+hash-format = "sha512"
+hash = "a1c3f6ea77d17e6d7b3c40d573e39f63c0308f3b5ec884f01624d792f0cea9c8142977425ad72df355298d037b3ef7787ba6e7b5272591fd071e3721cbe955d7"
+
+[update]
+[update.modrinth]
+mod-id = "LpUpHsT0"
+version = "eJNNgGdr"

@@ -90,6 +90,10 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/armisteel.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 metafile = true
 
@@ -138,7 +142,15 @@ file = "mods/bobby.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/buoys.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/charta.pw.toml"
 metafile = true
 
 [[files]]
@@ -158,7 +170,23 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/colorful-lanterns.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/colossal-chests.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/colourful-clocks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/confetti-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/confetti-stuff.pw.toml"
 metafile = true
 
 [[files]]
@@ -235,6 +263,10 @@ metafile = true
 
 [[files]]
 file = "mods/explorify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement.pw.toml"
 metafile = true
 
 [[files]]
@@ -338,6 +370,10 @@ file = "mods/immersive-snow.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/impenduits.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 metafile = true
 
@@ -426,6 +462,10 @@ file = "mods/macaws-windows.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mine-little-pony.pw.toml"
 metafile = true
 
@@ -494,11 +534,23 @@ file = "mods/owo-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/oxide.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/particular.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/petworks.pw.toml"
 metafile = true
 
 [[files]]
@@ -679,6 +731,10 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tidal-waves.pw.toml"
 metafile = true
 
 [[files]]

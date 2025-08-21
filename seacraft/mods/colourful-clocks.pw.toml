@@ -1,0 +1,13 @@
+name = "Colourful Clocks"
+filename = "colourfulclocks-fabric-1.21.1-0.1.4-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/h8cGboOg/versions/8DfqBuux/colourfulclocks-fabric-1.21.1-0.1.4-beta.jar"
+hash-format = "sha512"
+hash = "4576589995abed4eb81c91e045e98e91d2daf408ec805efb406898b1ba91c231d4f0b5d67f7650fcb36f60b40da467e43acb01f128042d2c7b1802c520746655"
+
+[update]
+[update.modrinth]
+mod-id = "h8cGboOg"
+version = "8DfqBuux"
