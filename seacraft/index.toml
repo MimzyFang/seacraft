@@ -478,6 +478,10 @@ file = "mods/macaws-windows.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/melody.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 metafile = true
 
