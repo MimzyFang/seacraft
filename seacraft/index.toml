@@ -222,6 +222,10 @@ file = "mods/dramatic-doors.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 metafile = true
 
@@ -299,6 +303,10 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
 metafile = true
 
 [[files]]
@@ -391,6 +399,10 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
 metafile = true
 
 [[files]]
