@@ -212,14 +212,6 @@ file = "mods/colourful-clocks.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/confetti-lib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/confetti-stuff.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 metafile = true
 
