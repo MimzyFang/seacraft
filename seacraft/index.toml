@@ -7,6 +7,42 @@ file = "config/betterdungeons-fabric-1_21.toml"
 file = "config/betterstrongholds-fabric-1_21.toml"
 
 [[files]]
+file = "config/drippyloadingscreen/options.txt"
+
+[[files]]
+file = "config/fancymenu/assets/sky_swim.png"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+
+[[files]]
 file = "config/ribbits-fabric-1_21_1.toml"
 
 [[files]]
