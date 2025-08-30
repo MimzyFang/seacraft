@@ -858,6 +858,10 @@ file = "mods/yungs-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-caves.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
 metafile = true
 
@@ -891,6 +895,10 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-cave-biomes.pw.toml"
 metafile = true
 
 [[files]]
