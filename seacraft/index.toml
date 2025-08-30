@@ -28,12 +28,6 @@ file = "config/yosbr/options.txt"
 file = "config/yosbr/server.properties"
 
 [[files]]
-file = "mods/YungsBetterCaves-1.21.1-Fabric-3.1.1.jar"
-
-[[files]]
-file = "mods/YungsCaveBiomes-1.21.1-Fabric-3.1.0.jar"
-
-[[files]]
 file = "mods/aa4-atlas.pw.toml"
 metafile = true
 
