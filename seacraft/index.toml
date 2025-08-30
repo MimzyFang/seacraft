@@ -58,6 +58,9 @@ file = "config/yosbr/config/enhanced_bes.properties"
 file = "config/yosbr/config/minelp.json"
 
 [[files]]
+file = "config/yosbr/config/modmenu.json"
+
+[[files]]
 file = "config/yosbr/options.txt"
 
 [[files]]
