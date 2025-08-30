@@ -13,16 +13,25 @@ file = "config/drippyloadingscreen/options.txt"
 file = "config/fancymenu/assets/sky_swim.png"
 
 [[files]]
+file = "config/fancymenu/assets/skycon.icns"
+
+[[files]]
+file = "config/fancymenu/assets/skycon.png"
+
+[[files]]
+file = "config/fancymenu/assets/skycon_low.png"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
 
 [[files]]
-file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+file = "config/fancymenu/customization/title_screen_layout.txt"
 
 [[files]]
-file = "config/fancymenu/customization/title_screen_layout.txt"
+file = "config/fancymenu/customization/universal_layout.txt"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -56,6 +65,9 @@ file = "config/yosbr/config/cpm.json"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
+
+[[files]]
+file = "config/yosbr/config/iceandfire/iaf-client.json"
 
 [[files]]
 file = "config/yosbr/config/minelp.json"
