@@ -223,6 +223,10 @@ file = "mods/colourful-clocks.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/configurable.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 metafile = true
 
