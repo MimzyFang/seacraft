@@ -43,6 +43,9 @@ file = "config/fancymenu/ui_themes/light.json"
 file = "config/fancymenu/user_variables.db"
 
 [[files]]
+file = "config/modmenu.json"
+
+[[files]]
 file = "config/ribbits-fabric-1_21_1.toml"
 
 [[files]]
@@ -56,9 +59,6 @@ file = "config/yosbr/config/enhanced_bes.properties"
 
 [[files]]
 file = "config/yosbr/config/minelp.json"
-
-[[files]]
-file = "config/yosbr/config/modmenu.json"
 
 [[files]]
 file = "config/yosbr/options.txt"
