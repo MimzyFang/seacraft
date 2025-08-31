@@ -95,6 +95,10 @@ file = "mods/accessorify.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/additional-lanterns.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/aether-emissivity.pw.toml"
 metafile = true
 
@@ -208,10 +212,6 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/colorful-lanterns.pw.toml"
 metafile = true
 
 [[files]]
