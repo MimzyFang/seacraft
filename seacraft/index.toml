@@ -79,10 +79,6 @@ file = "config/yosbr/options.txt"
 file = "config/yosbr/server.properties"
 
 [[files]]
-file = "mods/aa4-atlas.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/accessories-tc-layer.pw.toml"
 metafile = true
 
@@ -124,10 +120,6 @@ metafile = true
 
 [[files]]
 file = "mods/anshar.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/antique-atlas-4.pw.toml"
 metafile = true
 
 [[files]]
@@ -771,10 +763,6 @@ file = "mods/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/surveyor.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tectonic.pw.toml"
 metafile = true
 
@@ -932,10 +920,6 @@ file = "resources/resourcepack/optional/VanillaTweaks_r163854_MC1.21.x.zip"
 
 [[files]]
 file = "resources/resourcepack/optional/better-leaves.pw.toml"
-metafile = true
-
-[[files]]
-file = "resources/resourcepack/required/antique-atlas-4-compat.pw.toml"
 metafile = true
 
 [[files]]
