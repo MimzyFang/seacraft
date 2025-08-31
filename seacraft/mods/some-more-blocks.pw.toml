@@ -1,13 +1,13 @@
 name = "Some More Blocks"
-filename = "SomeMoreBlocks@fabric-1.21-1.1.3.jar"
+filename = "SomeMoreBlocks@fabric-1.21-1.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/R1LxuhQe/versions/EpPBCLWQ/SomeMoreBlocks%40fabric-1.21-1.1.3.jar"
+url = "https://cdn.modrinth.com/data/R1LxuhQe/versions/1bdZ6MbU/SomeMoreBlocks%40fabric-1.21-1.1.4.jar"
 hash-format = "sha512"
-hash = "50d0c02f0f0e79c22cb422fd6dc03693683ed60f80b009ffb2c02a530312358ded21d8c2c7c90f738809384274c54d511116f65acdeb0ab317efb1b6023bda3f"
+hash = "1ad7ff4b6c9989f07fae15959aaf44dfb6b9925124c7d393105b53ccf91794bfe6242b30bbeaa1db6ebdd066fbd3533f1f761928d18e13edd688d004ce268d34"
 
 [update]
 [update.modrinth]
 mod-id = "R1LxuhQe"
-version = "EpPBCLWQ"
+version = "1bdZ6MbU"
