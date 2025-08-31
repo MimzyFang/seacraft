@@ -1,6 +1,6 @@
 name = "Colorful Lanterns"
 filename = "colored-lanterns-1.21.1-0.7.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZOLn67wl/versions/BUhBymc6/colored-lanterns-1.21.1-0.7.jar"
