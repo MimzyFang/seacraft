@@ -1,13 +1,13 @@
 name = "Configurable"
-filename = "configurable-3.2.6+1.21.1-fabric.jar"
+filename = "configurable-3.2.7+1.21.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lGffrQ3O/versions/bPNCJg3X/configurable-3.2.6%2B1.21.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/lGffrQ3O/versions/Q7C5T5ru/configurable-3.2.7%2B1.21.1-fabric.jar"
 hash-format = "sha512"
-hash = "d8eba29ce0ccb661653e5dc3d16c511867240104e213dab08db2d6a4edb805b10044b4dab617b5f8ffc12781201288d9fb67b71b2e027ef85e6958dc606675e1"
+hash = "26c34461540536bb16dce2012febb726876d823840c208ae556a28026013692026d437ef2eded3d9e037a023d5de82a465ebe7064a1e8a81620c3783801f9159"
 
 [update]
 [update.modrinth]
 mod-id = "lGffrQ3O"
-version = "bPNCJg3X"
+version = "Q7C5T5ru"

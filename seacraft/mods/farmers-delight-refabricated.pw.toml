@@ -1,6 +1,7 @@
 name = "Farmer's Delight Refabricated"
 filename = "FarmersDelight-1.21.1-2.4.0+refabricated.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/7vxePowz/versions/aghYX1vG/FarmersDelight-1.21.1-2.4.0%2Brefabricated.jar"
