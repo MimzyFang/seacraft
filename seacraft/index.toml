@@ -247,6 +247,10 @@ file = "mods/debugify.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dramatic-doors.pw.toml"
 metafile = true
 
