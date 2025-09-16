@@ -1,13 +1,13 @@
 name = "Spectrum"
-filename = "spectrum-1.9.5.jar"
+filename = "spectrum-1.9.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/cl32FO9p/spectrum-1.9.5.jar"
+url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/ZNti2L9b/spectrum-1.9.6.jar"
 hash-format = "sha512"
-hash = "e90494c302098cd5572cbf72707cc5d25407527b6cef53a85759e918d565e58d201927267b6509bda9f6353e6297eaf07fac717d72f02c475d1b9db757c77f27"
+hash = "fbb43d5c8abc93aaa728f834321ebf179b73b09269a8d0837ff04328725fc4fcba186c7c158e592b5cb62482166e4db867bae84efab29e91bfd72f0c430fe862"
 
 [update]
 [update.modrinth]
 mod-id = "3rc31Hgo"
-version = "cl32FO9p"
+version = "ZNti2L9b"
