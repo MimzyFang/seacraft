@@ -1,13 +1,13 @@
 name = "Mine Little Pony"
-filename = "minelittlepony-4.14.0+1.21.jar"
+filename = "minelittlepony-4.14.1+1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/JBjInUXM/versions/7gJ7MDYe/minelittlepony-4.14.0%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/JBjInUXM/versions/eqFgErgE/minelittlepony-4.14.1%2B1.21.jar"
 hash-format = "sha512"
-hash = "109ec44643c8c9ab7a0381c8649f99fa9d70fb07b02e59406fd917ae0bc7d2a451fc5d29cba99a4dca6a6fee6f589d3051078fa145844fe672ddd72c24a1d34c"
+hash = "86d61efe43f92f73c13780b944f1320cc5810539e4909c62d8b32cd8cc3683ecca064aee43fd4613c6a273df681e1b7437ca5a35ff8a44aea1e4a2acc1bf67db"
 
 [update]
 [update.modrinth]
 mod-id = "JBjInUXM"
-version = "7gJ7MDYe"
+version = "eqFgErgE"
