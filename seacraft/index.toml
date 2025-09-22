@@ -559,6 +559,10 @@ file = "mods/moving-elevators.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/my-little-plushie.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/neruina.pw.toml"
 metafile = true
 
