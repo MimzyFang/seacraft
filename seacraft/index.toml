@@ -79,7 +79,7 @@ file = "config/yosbr/options.txt"
 file = "config/yosbr/server.properties"
 
 [[files]]
-file = "mods/accessories-tc-layer.pw.toml"
+file = "mods/accessories-compat-layer.pw.toml"
 metafile = true
 
 [[files]]
@@ -808,6 +808,10 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
 metafile = true
 
 [[files]]
