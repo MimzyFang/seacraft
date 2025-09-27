@@ -431,6 +431,10 @@ file = "mods/jupiter.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/kibe.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 metafile = true
 
