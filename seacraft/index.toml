@@ -52,6 +52,9 @@ file = "config/fancymenu/ui_themes/light.json"
 file = "config/fancymenu/user_variables.db"
 
 [[files]]
+file = "config/friendsandfoes.json"
+
+[[files]]
 file = "config/modmenu.json"
 
 [[files]]
