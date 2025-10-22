@@ -1,13 +1,13 @@
 name = "Kibe"
-filename = "kibe-2.1-BETA-fabric-1.21.1.jar"
+filename = "kibe-2.3.1-fabric-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OvlwmUdC/versions/KRkAWrcK/kibe-2.1-BETA-fabric-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/OvlwmUdC/versions/Pb0DTpHV/kibe-2.3.1-fabric-1.21.1.jar"
 hash-format = "sha512"
-hash = "e51d8e544fb224a660daf4f775d7ed3893d642321e86b74d44d84623045dc0a3f5d5399fbbbbf39b0eb9fbdcf03ecd4316bd99c40c6bc92132f8ed52e6de42da"
+hash = "e13147748c49b574473ff3cdf027d4c56483b40bd035af12e116b1831b26f6c799b620b5bb7f713752418b7923a682d0c61778e545874174649a571346e196b8"
 
 [update]
 [update.modrinth]
 mod-id = "OvlwmUdC"
-version = "KRkAWrcK"
+version = "Pb0DTpHV"

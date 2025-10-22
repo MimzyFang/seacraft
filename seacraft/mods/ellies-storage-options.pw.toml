@@ -1,13 +1,13 @@
 name = "Ellie's Storage Options"
-filename = "ellsso-fabric-1.21.1-0.4.2.jar"
+filename = "ellsso-fabric-1.21.1-0.5.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ff8g5rNf/versions/g2UgzozK/ellsso-fabric-1.21.1-0.4.2.jar"
+url = "https://cdn.modrinth.com/data/ff8g5rNf/versions/a6oqpwsi/ellsso-fabric-1.21.1-0.5.0.jar"
 hash-format = "sha512"
-hash = "bccc660403dd622e63a693f3a79402657b9a22887f4612223f67a0b6670c7299dfc192bba585b249f49f82d6eb8156f51cdcdcffd354d20cce7ec1b707d35f35"
+hash = "ab418e10ab5b56d67bfc84bb9b932bdd078bed0e49485141e272a3d78f9cdc8e6694234eab20b5c2893974a272b5bb9abd7da3315392d16973b35798c9e18eda"
 
 [update]
 [update.modrinth]
 mod-id = "ff8g5rNf"
-version = "g2UgzozK"
+version = "a6oqpwsi"
