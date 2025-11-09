@@ -202,6 +202,10 @@ file = "mods/chisel-reborn.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 metafile = true
 
@@ -695,6 +699,14 @@ metafile = true
 
 [[files]]
 file = "mods/seasons-delight-refab-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-ponies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
 metafile = true
 
 [[files]]
