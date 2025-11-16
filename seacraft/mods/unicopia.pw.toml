@@ -1,13 +1,13 @@
 name = "Unicopia"
-filename = "unicopia-1.3.15+1.21.jar"
+filename = "unicopia-1.3.16+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9K7RJlvM/versions/ODoS7bKw/unicopia-1.3.15%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/9K7RJlvM/versions/3SJXFvmT/unicopia-1.3.16%2B1.21.jar"
 hash-format = "sha512"
-hash = "fd2d421d4effc566265f446b483547a949dd0a4acfd174f661047810ee8e1d17846d7acd8baf20fe9aebea99b14ee4c82dd8e2771088abb25d45deb9d5e8dd52"
+hash = "3e5a296047c44ff881f306cfd950f15f5917fe23da0c76e68ec65b1b4b0dd997890e67148ede4ad11a62e4383bbdf8bb1c0dc857dbe15724984c3ca34951c948"
 
 [update]
 [update.modrinth]
 mod-id = "9K7RJlvM"
-version = "ODoS7bKw"
+version = "3SJXFvmT"
