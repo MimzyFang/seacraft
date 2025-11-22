@@ -3,11 +3,11 @@ filename = "Unicopia-Blockus-1.2.0+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YMowEgK2/versions/FPcrsz7c/Unicopia-Blockus-1.2.0%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/YMowEgK2/versions/rNNFHdtk/Unicopia-Blockus-1.2.0%2B1.21.jar"
 hash-format = "sha512"
-hash = "1e2de2f30f29b00523db5dd695d5a46ea744d9340218dc6d865a44ce3085efb4abeadcff15fab2fbf86b6b102bb5fe27242a6c77cb233e88bb2df057aa5834da"
+hash = "caf3060b600c76e9082aa418ae6ba6b7f46b158e2b9117c59fd27346f8cf7edbb54de68d35536579727174904e5aec96e11e312bd9e4cbd68f509b1328469809"
 
 [update]
 [update.modrinth]
 mod-id = "YMowEgK2"
-version = "FPcrsz7c"
+version = "rNNFHdtk"
