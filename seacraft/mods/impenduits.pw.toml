@@ -1,13 +1,13 @@
 name = "Impenduits"
-filename = "impenduits-1.0.6-1.21.1-fabric.jar"
+filename = "impenduits-2.0.0-1.21.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iYrQWVBW/versions/pFX27AYP/impenduits-1.0.6-1.21.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/iYrQWVBW/versions/3EzqbmDS/impenduits-2.0.0-1.21.1-fabric.jar"
 hash-format = "sha512"
-hash = "b927e1c144b7ff12da941527b4e9c19e38a9f0b5e5279c13517c2b1fbc984bdb6de7a1b35938dac884bc215aff923f80a37d834cbb613e4768f509da650a3341"
+hash = "e898b51f8ff3c320ff82d1a50172f2eff6a2bc54d62229d3ddb3a2751975c041baf3387c5de8b885c2e2d4c3db9b9331f48f7e52e911b94fb88835b5fab146e7"
 
 [update]
 [update.modrinth]
 mod-id = "iYrQWVBW"
-version = "pFX27AYP"
+version = "3EzqbmDS"

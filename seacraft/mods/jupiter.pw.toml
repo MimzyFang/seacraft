@@ -1,13 +1,13 @@
 name = "Jupiter"
-filename = "Jupiter-2.2.2-fabric.jar"
+filename = "jupiter-2.3.0-beta.3-1.21.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XbiLGMMU/versions/sitr75nX/Jupiter-2.2.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/XbiLGMMU/versions/kTpqaA9O/jupiter-2.3.0-beta.3-1.21.1-fabric.jar"
 hash-format = "sha512"
-hash = "00ab44f92b0ef4dcecfa1f0c4d510e230aef01f82904c9604a72b5f1f18e7bef050d21229fd0ce1ef16ae038c22995cae1c6bcd2a8e6fb75edd794acc954c401"
+hash = "a5f8076bb43b0be82b14f4b8fe2dbd9a6261adf290671c62f0bb1015b7af12aadca2d2a4582cc6a4b883dbdf226dab5372393963e08c6ec81418d0f9f50b1c3c"
 
 [update]
 [update.modrinth]
 mod-id = "XbiLGMMU"
-version = "sitr75nX"
+version = "kTpqaA9O"
