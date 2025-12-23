@@ -1,13 +1,13 @@
 name = "Accessorify"
-filename = "accessorify-2.4.0-beta.4+1.21.1-fabric.jar"
+filename = "accessorify-2.4.0-beta.5+1.21.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CVRzrXGP/versions/1SQnuYGh/accessorify-2.4.0-beta.4%2B1.21.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/CVRzrXGP/versions/UlfvVcjz/accessorify-2.4.0-beta.5%2B1.21.1-fabric.jar"
 hash-format = "sha512"
-hash = "124989c0c8fbaf1c8a7ffb73541945f7781fb3e46623c2a4deab5b4955f01ab0936c5abfcf9c9cf606abcd9ee37dc587c06a4f009d43ed144028700d7dfd9587"
+hash = "183d5845b7b96bc217f4c280c783e146eb5cbecc713cfef4800a7a3eb03ff8f437ec80c6fe968fb4b89e4aa2cc8afbb409bed3b9cbbd0a45d914b84e35668b2e"
 
 [update]
 [update.modrinth]
 mod-id = "CVRzrXGP"
-version = "1SQnuYGh"
+version = "UlfvVcjz"
