@@ -410,6 +410,10 @@ file = "mods/iceandfire-ce.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/immersive-snow.pw.toml"
 metafile = true
 
