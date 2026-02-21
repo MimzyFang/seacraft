@@ -410,10 +410,6 @@ file = "mods/iceandfire-ce.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/immersive-snow.pw.toml"
 metafile = true
 
@@ -467,10 +463,6 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/lmft.pw.toml"
 metafile = true
 
 [[files]]
