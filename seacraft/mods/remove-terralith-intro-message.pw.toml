@@ -1,13 +1,13 @@
 name = "Remove Terralith Intro Message"
-filename = "remove-terralith-intro-message-1.1.jar"
+filename = "zRemove_SDL_Intro_v1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sk4iFZGy/versions/Ad77N3iX/remove-terralith-intro-message-1.1.jar"
+url = "https://cdn.modrinth.com/data/sk4iFZGy/versions/BHr8OLOk/zRemove_SDL_Intro_v1.2.2.jar"
 hash-format = "sha512"
-hash = "62391dc2948f14ea0bebab89bdd88bf768bacf458a1832dcd53f95b709c1caf3dde3470cb5b12f3efe5d6904c72410452c56fce952b03f474d9d7a5dc932dfbb"
+hash = "2a5b1f3a074d567c6134b918cd711ad64015cf3db0c1dfaf083f66af56004ae2ecda80e63593e1c20dae99f7237b718efde851e1e85f6e1ba604ba87469f60ff"
 
 [update]
 [update.modrinth]
 mod-id = "sk4iFZGy"
-version = "Ad77N3iX"
+version = "BHr8OLOk"

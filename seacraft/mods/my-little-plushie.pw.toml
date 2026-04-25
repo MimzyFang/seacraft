@@ -1,13 +1,13 @@
 name = "My Little Plushie"
-filename = "my-little-plushie-0.8.0+mc1.21.1+fabric.jar"
+filename = "my-little-plushie-0.9.0+mc1.21.1+fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kOALBxSi/versions/FOrzArbI/my-little-plushie-0.8.0%2Bmc1.21.1%2Bfabric.jar"
+url = "https://cdn.modrinth.com/data/kOALBxSi/versions/mM0PjgrT/my-little-plushie-0.9.0%2Bmc1.21.1%2Bfabric.jar"
 hash-format = "sha512"
-hash = "f8085981a3b4809240df08859cbf033e1ae6db20f0772e891aceff451f02e4eaedf190f34d42042fc11718fdff5ea8c01dba18d5b5c6f4f52d637d240e268f9b"
+hash = "8b61fb989664231a14515a520c500125921fe932ed5bbef900cf7e06f0163605f6b8b0df8d84a636b52c53582e5dd7fe1413a3e49c1a64684bcffa87baf5db1d"
 
 [update]
 [update.modrinth]
 mod-id = "kOALBxSi"
-version = "FOrzArbI"
+version = "mM0PjgrT"
